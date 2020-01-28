@@ -1,0 +1,11 @@
+{
+  "name": "node-js-watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Oskyyy/watermark.git",
+  "author": "Oskar Wrotniak",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
